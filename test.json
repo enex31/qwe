@@ -1,0 +1,21 @@
+{
+    "document": {
+        "children": [
+            {
+                "type": "CANVAS",
+                "children": [
+                    {
+                        "type": "FRAME",
+                        "name": "Test Frame",
+                        "children": [
+                            {
+                                "type": "TEXT",
+                                "characters": "Hello Figma!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
